@@ -5,11 +5,11 @@ Sabin's first circuit!
 
 # Truth Table
 
-![alt text](https://github.com/sabinpark/ECE281_CE1/blob/master/Truth%20Table.PNG "Truth Table")
+![alt text](https://github.com/sabinpark/ECE281_CE1/blob/master/Truth%20Table.PNG?raw=true "Truth Table")
 
 # Waveform
 
-![alt text](https://github.com/sabinpark/ECE281_CE1/blob/master/Waveform.PNG "Testbench Waveform")
+![alt text](https://github.com/sabinpark/ECE281_CE1/blob/master/Waveform.PNG?raw=true "Testbench Waveform")
 
 # Waveform Analysis
 
