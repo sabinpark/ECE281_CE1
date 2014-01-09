@@ -1,11 +1,11 @@
 ECE281_CE1
 ==========
 
-Sabin's first circuit
+Sabin's first circuit!
 
 # Truth Table
 
-![alt text](https://github.com/sabinpark/ECE281_CE1/blob/master/Truth Table.PNG "Truth Table")
+![alt text](https://github.com/sabinpark/ECE281_CE1/blob/master/Truth%20Table.PNG "Truth Table")
 
 # Waveform
 
